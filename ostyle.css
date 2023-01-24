@@ -1,0 +1,111 @@
+.container {
+    background-image: url(./images/images.jpeg);
+    overflow: hidden;
+}
+
+div {
+    color: black;
+}
+
+.left_panel {
+    border-radius: 50px;
+    background-color: #213A5C;
+    width: 300px;
+    height: 593px;
+}
+
+.background {
+    background-color: white;
+    border-radius: 50px;
+    width: 1264px;
+    height: 593px;
+}
+
+.image {
+    position: absolute;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+
+.image_mgmt {
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.name {
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 23px;
+}
+
+.link {
+    position: absolute;
+    margin-top: 500px;
+}
+
+.email {
+    position: absolute;
+    margin-left: 43px;
+}
+
+.twitter {
+    position: absolute;
+    margin-left: 123px;
+}
+
+.linkedIn {
+    position: absolute;
+    margin-left: 203px;
+}
+
+.introduction {
+    position: absolute;
+    /* color: white; */
+    width: 265px;
+    margin-top: 225px;
+    margin-left: 23px;
+}
+
+.block1 {
+    position: absolute;
+    margin-left: 340px;
+    margin-top: 15px;
+}
+
+.career_objectives {
+    position: absolute;
+    /* margin-left: 350px; */
+    width: 400px;
+}
+
+.education {
+    position: absolute;
+    margin-top: 230px;
+    /* margin-left: 350px; */
+    width: 400px;
+}
+
+.educational_institutions {
+    position: absolute;
+    margin-top: 370px;
+    /* margin-left: 350px; */
+    width: 400px;
+}
+
+.block2 {
+    position: absolute;
+    width: 500px;
+    margin-left: 780px;
+    margin-top: 15px;
+}
+
+.skills_services {
+    position: absolute;
+}
+
+.experience {
+    position: absolute;
+    margin-top: 400px;
+}
